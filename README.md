@@ -11,6 +11,20 @@ Ez egy egyetemi Java platformjáték projekt, amely NetBeans környezetben kész
 - Ranglista mentés és megjelenítés
 - Menü: Játék indítása, ranglista megtekintése, kilépés
 
+## Képernyőképek
+
+### Menü
+![Menü](screenshots/menu.png)
+
+### 1. pálya
+![1. pálya](screenshots/lvl1.png)
+
+### 1. pálya teljesítve
+![1. pálya teljesítve](screenshots/lvl1c.png)
+
+### Game Over
+![Game Over](screenshots/gameover.png)
+
 ## Játékmenet röviden
 
 Egy kalózt irányítasz, célod az összes ellenség (Crabby) elpusztítása.  
