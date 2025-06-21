@@ -1,0 +1,27 @@
+# Build output
+/build/
+/dist/
+
+# Compiled class files
+*.class
+
+# NetBeans private config
+nbproject/private/
+
+# Logs
+*.log
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# User-specific files
+*.swp
+*~
+
+# Ignore JARs in lib if you use dependency management (Maven/Gradle), otherwise comment out
+# lib/*.jar
