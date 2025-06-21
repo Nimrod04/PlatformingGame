@@ -86,8 +86,8 @@ java -jar dist/PlatformingGame.jar
 
 ## Szerző
 
-- Név: Szekeres Nimród (G3JPJ4)
-- ELTE, Programozási technológiák beadandó, 17. csoport
+- Név: Szekeres Nimród
+- ELTE, Programozási technológiák beadandó
 - Dátum: 2024.12.15.
 
 ---
